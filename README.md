@@ -1,4 +1,4 @@
-# telescope-tfsec.nvim
+# telescope-terraform-doc.nvim
 
 An extension for the telescope.nvim to find terraform resources and view document.
 
