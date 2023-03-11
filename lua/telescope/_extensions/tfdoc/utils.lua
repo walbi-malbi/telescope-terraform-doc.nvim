@@ -10,8 +10,6 @@ function M.is_exist_index(tbl, index)
 end
 
 function M.view_markdown(tempfile, open_type)
-	print("view_markdown")
-
 	local cmd = string.format("glow %s", tempfile)
 	local bufnr = vim.api.nvim_create_buf(false, true)
 
