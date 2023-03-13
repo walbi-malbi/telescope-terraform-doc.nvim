@@ -36,17 +36,17 @@ Install with lazy
 official or partner provider
 
 ```
-:Telescope tfsec provider=aws
+:Telescope tfdoc provider=aws
 ```
 
 specific provider version
 
 ```
-:Telescope tfsec provider=aws version=4.50.0
+:Telescope tfdoc provider=aws version=4.50.0
 ```
 
 community provider
 
 ```
-:Telescope tfsec provider=devops-rob/terracurl
+:Telescope tfdoc provider=devops-rob/terracurl
 ```
